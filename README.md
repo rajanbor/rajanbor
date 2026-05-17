@@ -1,4 +1,4 @@
-# Rajan Bor (1norahc)
+# Rajan Bor (izqzmyli)
 {"hobbyist ai researcher"}
 
 ```go
@@ -17,7 +17,7 @@ type rajan_bor struct {
 func (r *rajan_bor) New() *rajan_bor {
     return &rajan_bor{
         Role:       Role.FULL_STACK_DEVELOPER_AND_FOUNDER,
-        GitHub:     GitHub{"github.com/1norahc"},
+        GitHub:     GitHub{"github.com/izqzmyli"},
         Email:      Email{"rajanbor@rajanbor.com"},
         Website:    Website{"rajanbor.com"},
         X:          X{"x.com/rajanbor"},
