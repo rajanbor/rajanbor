@@ -1,32 +1,31 @@
-# Rajan Bor (izqzmyli)
-{"someday i will write here a huge sentence"}
+# Rajan Bor
 
 ```go
-type rajan_bor struct {
-    Role        Role
-    GitHub      GitHub
-    Email       Email
-    Website     Website
-    X           X
-    Company     Company
-    Philosophy  string
-    TechStack   []Technology
-    Learning    string
+type ChillGuy struct {
+    Currently  []string
+    Interests  []string
+    Philosophy string
 }
 
-func (r *rajan_bor) New() *rajan_bor {
-    return &rajan_bor{
-        Role:       Role.FULL_STACK_DEVELOPER_AND_FOUNDER,
-        GitHub:     GitHub{"github.com/izqzmyli"},
-        Email:      Email{"rajan.bor@pm.me"},
-        Website:    Website{"rajanbor.com"},
-        X:          X{"x.com/rajanbor"},
-        Company:    Company{"boringcode.com"},
-        Philosophy: "boring code > clever code",
-        TechStack:  []Technology{
-            "Python", "TS", "JS", "Rust basics",
+func main() {
+    me := ChillGuy{
+        Currently: []string{
+            "developing boringcode.com",
+            "building AI workflows",
+            "contributing",
+            "learning",
         },
-        Learning: "Go, more Rust",    
+
+        Interests: []string{
+            "automation",
+            "security",
+            "developer tools",
+            "weird AI ideas",
+        },
+
+        Philosophy: "boring code > clever code",
     }
+
+    ship(me)
 }
 ```
