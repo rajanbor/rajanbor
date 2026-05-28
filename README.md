@@ -31,4 +31,4 @@ func main() {
     ship(me)
 }
 ```
-[![Cat Read GIF.gif](Cat Read GIF.gif)](https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68)
+![Cat Read GIF.gif](https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68)
