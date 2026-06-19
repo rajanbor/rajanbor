@@ -1,6 +1,6 @@
 # Rajan Bor
 
-something about me [rajanbor.com](https://rajanbor.com)
+if you want to contact me wirte at info@rajanbor.com
 
 i am currently building an app, you can read more at [zostaje.com](https://zostaje.com) and follow for more on [X](https://x.com/zostaje_app)
 
