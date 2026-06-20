@@ -1,6 +1,6 @@
 # Rajan Bor
 
-if you want to contact me wirte at info@rajanbor.com
+if you want to contact me wirte at rajan.bor@boringcode.pl
 
 i am currently building an app, you can read more at [zostaje.com](https://zostaje.com) and follow for more on [X](https://x.com/zostaje_app)
 
