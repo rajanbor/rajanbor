@@ -1,5 +1,5 @@
 # Rajan Bor
-* BUT READ MY NAME LIKE RYAN IT'S POLISH VERSION OF THAT NAME :) *
+**(for those who don't know me my name pronounced exactly like *`Ryan`* :))**
 
 if you want to contact me wirte at rajan.bor@boringcode.pl
 
