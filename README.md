@@ -5,7 +5,7 @@ for those who don't know me - *`Rajan`* is pronounced exactly like *`Ryan`* :)
 
 ### Currently
 
-🎯 building an app, you can read more at [zostaje.com](https://zostaje.com) and follow for more on [@zostaje_app](https://x.com/zostaje_app)
+🎯 building an app, you can read about at [zostaje.com](https://zostaje.com) and follow for more on [@zostaje_app](https://x.com/zostaje_app)
 
 🎯 contributing!! i want to know more and more so i'm trying to learn something new from other projects.
 
