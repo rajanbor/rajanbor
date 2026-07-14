@@ -1,6 +1,6 @@
 for those who don't know me - *`Rajan`* is pronounced exactly like *`Ryan`* :)
 
-👉 if you want to contact me wirte at rajan.bor@boringcode.pl
+👉 if you want to contact me wirte 📧 at rajan.bor@boringcode.pl
 
 ### Currently
 
