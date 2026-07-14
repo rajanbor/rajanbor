@@ -6,7 +6,7 @@ for those who don't know me - *`Rajan`* is pronounced exactly like *`Ryan`* :)
 
 **(ultra 0)** doodling, shmoodling a new project [MAP](https://missing-ai-patterns.github.io/website)
 
-**(1)** in free time building an app, you can read about at [zostaje.com](https://zostaje.com) and follow for more on [@zostaje_app](https://x.com/zostaje_app)
+**(1)** in free time building an app, reach more [zostaje.com](https://zostaje.com) and follow [@zostaje_app](https://x.com/zostaje_app)
 
 **(2)** contributing!! i want to know more and more so i'm trying to learn something new from other projects.
 
