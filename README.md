@@ -4,8 +4,6 @@ Full-stack developer and founder @ **Boring Code**.
 
 I build web applications, backend services, AI-powered tools and business automations.
 
----
-
 ## About me
 
 - 💻 I work with TypeScript, React, Next.js, Python and PHP
@@ -15,15 +13,12 @@ I build web applications, backend services, AI-powered tools and business automa
 - 🚀 I am currently developing Boring Code
 - 📍 Based in Poland
 
----
-
 ## Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,php,postgres,docker,git,github,linux,aws" />
 </p>
 
----
 
 ## Selected projects
 
@@ -38,8 +33,6 @@ Software development, websites, automations and AI-powered solutions.
 ### Missing AI Patterns
 
 Open-source standards and tools for managing AI agent context files.
-
----
 
 ## Contact
 
