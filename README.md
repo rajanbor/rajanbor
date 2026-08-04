@@ -22,15 +22,15 @@ I build web applications, backend services, AI-powered tools and business automa
 
 ## Selected projects
 
-### Zostaje
+### (1) Zostaje
 
 Local-first personal finance application focused on financial education.
 
-### Boring Code
+### (2) Boring Code
 
 Software development, websites, automations and AI-powered solutions.
 
-### Missing AI Patterns
+### (3) Missing AI Patterns
 
 Open-source standards and tools for managing AI agent context files.
 
@@ -44,6 +44,6 @@ Open-source standards and tools for managing AI agent context files.
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:rajan.bor@boringcode.pl">
-    <img src="https://img.shields.io/badge/Email-hello@rajanbor.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-rajan.bor@boringcode.pl-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
