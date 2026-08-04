@@ -41,23 +41,6 @@ Open-source standards and tools for managing AI agent context files.
 
 ---
 
-## GitHub statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=rajanbor&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=rajanbor&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## Contact
 
 <p>
