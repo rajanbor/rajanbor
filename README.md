@@ -16,7 +16,7 @@ I build web applications, backend services, AI-powered tools and business automa
 ## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,php,postgres,docker,git,github,linux,aws,gsuit,azure" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,php,postgres,docker,git,github,linux,aws,azure" />
 </p>
 
 
