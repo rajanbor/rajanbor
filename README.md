@@ -13,10 +13,10 @@ I build web applications, backend services, AI-powered tools and business automa
 - 🚀 I am currently developing Boring Code
 - 📍 Based in Poland
 
-## Technologies
+## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,php,postgres,docker,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,php,postgres,docker,git,github,linux,aws,gsuit,azure" />
 </p>
 
 
